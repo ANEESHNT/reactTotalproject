@@ -1,0 +1,12 @@
+.row {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.col-sm-3{
+    padding: 10px;
+    cursor: pointer;
+    padding-top: 10px;
+    border-top: 1px solid lightgray;
+    padding-bottom:60px;
+}
