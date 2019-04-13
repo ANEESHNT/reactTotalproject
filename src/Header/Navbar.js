@@ -23,10 +23,7 @@ class Header extends Component {
   <li className="nav-item">
                   <Link to={'/'} className="nav-link">Index</Link>
                 </li>
-                {/* <li className="nav-item">
-                  <Link to={'/create'} className="nav-link">Create</Link>
-                </li> */}
-  <Cart/>
+                <Link to="Cart"><button>Cart</button></Link>
   
   
   
